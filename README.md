@@ -10,10 +10,18 @@ It is very well suited for web development (development of html, css and js file
 
 ## install/setup VS Code
 
-1. install from the official website ([windows](https://code.visualstudio.com/docs/setup/windows) / [mac](https://code.visualstudio.com/docs/setup/mac))
+1. install from the official website ([windows](https://code.visualstudio.com/docs/setup/windows) / [mac](https://code.visualstudio.com/docs/setup/mac)) / **Linux:** [Ubuntu Deb-File](https://code.visualstudio.com/docs/?dv=linux64_deb) or [Snap Store](https://snapcraft.io/code) )
 1. add extension "HTMLHint" (validate your html-syntax): extension symbol (left) > search "HTMLHint" > install "HTMLHint"
 1. add extension "prettier" (auto-format your files): extension symbol (left) > search "prettier" > install "Prettier - Code formatter"
-1. add extension "Live Server" (reload browser on save): extension symbol (left) > search "Live Server" > install "Live Server"
+1. (on Mac/Windows) add extension "Live Server" (reload browser on save): extension symbol (left) > search "Live Server" > install "Live Server"
+
+## live-server on Linux
+
+`npm install -g live-server`
+
+[Documentation of Live-Server](https://www.npmjs.com/package/live-server)
+
+## Working with VS Code
 
 ### open a project with VS Code
 
