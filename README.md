@@ -64,13 +64,3 @@ When you program, time is money (literally!), every time you use the mouse to na
 **!HOMEWORK!**
 
 According to what I wrote above, the following article is a MUST-READ (not in the lessons, check it out on your own at home): [Visual Studio Code Tips and Tricks by the VS Code Team](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
-
----
-
-## Other Extentions
-
-### Gremlins
-
-Helps to show hidden characters (like zero width space, that comes along with copy & paste from Slack)
-
-https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins
