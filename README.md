@@ -38,7 +38,7 @@ For auto-formatting your code on saving the file (recommended!), you have to edi
 
 If you want, you can also enable auto saving (File > Preferences > Settings > search "auto save" > change to onFocusChange (or whatever you want).
 
-### use Live Server (VS Code Extension)
+### (on Mac/Windows) use Live Server (VS Code Extension)
 
 Open your `index.html`-file in vs code and on the bottom of the window (inside the blue bar), click "Go Live". The browser automatically opens the url [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html).
 
