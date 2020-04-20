@@ -1,6 +1,8 @@
 # webdev
 collected notes, tools and links for webdevelopment
 
+ * [VSC Extentions](vsc-extentions.md)
+
 ---
 
 # Pascal's original notes for VS Code (Visual Studio Code)
