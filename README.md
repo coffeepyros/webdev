@@ -1,6 +1,7 @@
 # webdev
 collected notes, tools and links for webdevelopment
 
+ * [CSS Border Styles](https://codepen.io/coffeepyros/pen/BaoLpEN)
  * [VSC Extentions](vsc-extentions.md)
 
 ---
