@@ -19,9 +19,9 @@ It is very well suited for web development (development of html, css and js file
 ## install/setup VS Code
 
 1. install from the official website ([windows](https://code.visualstudio.com/docs/setup/windows) / [mac](https://code.visualstudio.com/docs/setup/mac)) / **Linux:** [Ubuntu Deb-File](https://code.visualstudio.com/docs/?dv=linux64_deb) or [Snap Store](https://snapcraft.io/code) )
-1. add extension "HTMLHint" (validate your html-syntax): extension symbol (left) > search "HTMLHint" > install "HTMLHint"
-1. add extension "prettier" (auto-format your files): extension symbol (left) > search "prettier" > install "Prettier - Code formatter"
-1. (Mac/Windows) add extension "Live Server" (reload browser on save): extension symbol (left) > search "Live Server" > install "Live Server"
+1. add extension **HTMLHint** (validate your html-syntax): extension symbol (left) > search "HTMLHint" > install "HTMLHint"
+1. add extension **prettier** (auto-format your files): extension symbol (left) > search "prettier" > install "Prettier - Code formatter"
+1. (Mac/Windows) add extension **Live Server** (reload browser on save): extension symbol (left) > search "Live Server" > install "Live Server"
 
 ## (Linux) Node Package live-server
 
@@ -42,9 +42,9 @@ It is very well suited for web development (development of html, css and js file
 
 After you have installed the extension, you can format the code with `Shift` + `Alt` + `F` (try it out!).
 
-For auto-formatting your code on saving the file (recommended!), you have to edit your settings: File > Preferences > Settings > search "format on save" > enable it
+For **auto-formatting** your code **on saving** the file (recommended!), you have to edit your settings: File > Preferences > Settings > search "format on save" > enable it
 
-If you want, you can also enable auto saving (File > Preferences > Settings > search "auto save" > change to onFocusChange (or whatever you want).
+If you want, you can also **enable auto saving** (File > Preferences > Settings > search "auto save" > change to onFocusChange (or whatever you want).
 
 ### (on Mac/Windows) use Live Server (VS Code Extension)
 
