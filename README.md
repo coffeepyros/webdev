@@ -11,7 +11,7 @@ collected notes, tools and links for webdevelopment
   
 ---
 
-# Pascal's original notes for VS Code (Visual Studio Code)
+# Pascal's notes for Visual Studio Code (updated for Linux)
 
 VS Code is a free ide ([integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment)) by microsoft.
 It is very well suited for web development (development of html, css and js files).
