@@ -7,7 +7,7 @@ collected notes, tools and links for webdevelopment
 
 ## external
 
- * CodePen: <a target="_blank" href="https://codepen.io/coffeepyros/pen/BaoLpEN">CSS Border Styles</a>
+ * [CSS Border Styles](https://codepen.io/coffeepyros/pen/BaoLpEN)
   
 ---
 
@@ -27,7 +27,7 @@ It is very well suited for web development (development of html, css and js file
 
 `npm install -g live-server`
 
-<a target="_blank" href="https://www.npmjs.com/package/live-server">NPM documentation of live-server</a>
+[NPM documentation of live-server](https://www.npmjs.com/package/live-server)
 
 ## Working with VS Code
 
@@ -65,7 +65,9 @@ You spend 4-12 hours a day with your ide as a programmer, on average at least 30
 
 When you program, time is money (literally!), every time you use the mouse to navigate / look up something /... you get out of the flow, so always try to use the ide to its full potential and learn to use shortcuts!
 
-[Windows keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) / [macOS keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) / [Linux keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
+ * [Windows keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+ * [macOS keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+ * [Linux keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 
 > pro tip: Try using "Multi-cursor" and "Multi-cursor-selection" (really, try it, now!)
 
