@@ -8,6 +8,7 @@ collected notes, tools and links for webdevelopment
 ## external
 
  * [CSS Border Styles](https://codepen.io/coffeepyros/pen/BaoLpEN)
+ * [Caching GitHub password](https://help.github.com/en/github/using-git/caching-your-github-password-in-git)
   
 ---
 
