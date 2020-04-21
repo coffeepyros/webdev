@@ -1,9 +1,14 @@
 # webdev
 collected notes, tools and links for webdevelopment
 
- * [CSS Border Styles](https://codepen.io/coffeepyros/pen/BaoLpEN)
+## internal
+
  * [VSC Extentions](vsc-extentions.md)
 
+## external
+
+ * CodePen: <a target="_blank" href="https://codepen.io/coffeepyros/pen/BaoLpEN">CSS Border Styles</a>
+  
 ---
 
 # Pascal's original notes for VS Code (Visual Studio Code)
@@ -16,13 +21,13 @@ It is very well suited for web development (development of html, css and js file
 1. install from the official website ([windows](https://code.visualstudio.com/docs/setup/windows) / [mac](https://code.visualstudio.com/docs/setup/mac)) / **Linux:** [Ubuntu Deb-File](https://code.visualstudio.com/docs/?dv=linux64_deb) or [Snap Store](https://snapcraft.io/code) )
 1. add extension "HTMLHint" (validate your html-syntax): extension symbol (left) > search "HTMLHint" > install "HTMLHint"
 1. add extension "prettier" (auto-format your files): extension symbol (left) > search "prettier" > install "Prettier - Code formatter"
-1. (on Mac/Windows) add extension "Live Server" (reload browser on save): extension symbol (left) > search "Live Server" > install "Live Server"
+1. (Mac/Windows) add extension "Live Server" (reload browser on save): extension symbol (left) > search "Live Server" > install "Live Server"
 
-## live-server on Linux
+## (Linux) Node Package live-server
 
 `npm install -g live-server`
 
-[Documentation of Live-Server](https://www.npmjs.com/package/live-server)
+<a target="_blank" href="https://www.npmjs.com/package/live-server">NPM documentation of live-server</a>
 
 ## Working with VS Code
 
