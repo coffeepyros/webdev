@@ -61,7 +61,7 @@ You spend 4-12 hours a day with your ide as a programmer, on average at least 30
 
 When you program, time is money (literally!), every time you use the mouse to navigate / look up something /... you get out of the flow, so always try to use the ide to its full potential and learn to use shortcuts!
 
-[Windows keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) / [macOS keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+[Windows keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) / [macOS keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) / [Linux keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 
 > pro tip: Try using "Multi-cursor" and "Multi-cursor-selection" (really, try it, now!)
 
