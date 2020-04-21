@@ -54,6 +54,10 @@ Open your `index.html`-file in vs code and on the bottom of the window (inside t
 
 Live Server creates a so called "development server" on your local machine, which behaves like a webserver and automatically reloads, when you change a file.
 
+### (on Linux) use live-server
+
+Open a terminal, navigate to your files and start "live-server". The terminal will stay open and update changes. If you close the browser window, you can re-open it with the adress: > http://127.0.0.1:8080/
+
 ## VS Code Shortcuts
 
 The ide was built so that it can be operated completely without a mouse!
