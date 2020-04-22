@@ -7,7 +7,10 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [Pascal's original notes](vsc-pascal.md) (updated for Linux by me)
  * [VSC Extentions](vsc-extentions.md)
 
-## external
+## CSS
 
  * [CSS Border Styles](https://codepen.io/coffeepyros/pen/BaoLpEN)
- * [Caching GitHub password](https://help.github.com/en/github/using-git/caching-your-github-password-in-git)
+ 
+## Git / GitHub
+
+* [Caching GitHub password](https://help.github.com/en/github/using-git/caching-your-github-password-in-git)
