@@ -13,7 +13,8 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 
 ## CSS
 
- * [CSS Border Styles](https://codepen.io/coffeepyros/pen/BaoLpEN)
+ * [Border Styles](https://codepen.io/coffeepyros/pen/BaoLpEN)
+ * [Font Stacks](https://css-tricks.com/snippets/css/font-stacks/)
  
 ## Git / GitHub
 
