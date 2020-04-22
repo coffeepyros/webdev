@@ -1,4 +1,4 @@
-# Webdevelopment Year Course Notes
+# Webdevelopment Notes
 
 Collected notes, tools and links for webdevelopment. Always growing, because the space in my head is taken up with useless information instead.
 
