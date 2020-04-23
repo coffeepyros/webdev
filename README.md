@@ -15,6 +15,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 
  * [Border Styles](https://codepen.io/coffeepyros/pen/BaoLpEN)
  * [Font Stacks](https://css-tricks.com/snippets/css/font-stacks/)
+ * [Font size to point size translation](https://stackoverflow.com/questions/5912528/font-size-translating-to-actual-point-size)
  * Grid: [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) - Youtube Channel by Jen Simmons (one of the main developers of CSS grid)
  
 ## Git / GitHub
