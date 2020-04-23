@@ -23,6 +23,8 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 * [Caching GitHub password](https://help.github.com/en/github/using-git/caching-your-github-password-in-git)
 * [GitHub Status](https://www.githubstatus.com/)
 
-## Cool Fonts
+## Typography
 
  * [Rock Salt](https://fonts.google.com/specimen/Rock+Salt) (Handwriting)
+ * [W3C School Intro to Font Awesome](https://www.w3schools.com/icons/fontawesome_icons_intro.asp)
+ * [Hosting Font Awesome Yourself](https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself)
