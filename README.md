@@ -21,6 +21,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 ## Git / GitHub
 
 * [Caching GitHub password](https://help.github.com/en/github/using-git/caching-your-github-password-in-git)
+* [GitHub Status](https://www.githubstatus.com/)
 
 ## Cool Fonts
 
