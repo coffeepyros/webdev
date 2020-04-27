@@ -33,3 +33,4 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [Rock Salt](https://fonts.google.com/specimen/Rock+Salt) (Handwriting)
  * [W3C School Intro to Font Awesome](https://www.w3schools.com/icons/fontawesome_icons_intro.asp)
  * [Hosting Font Awesome Yourself](https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself)
+ * [Fluid Typography](https://www.smashingmagazine.com/2016/05/fluid-typography/)
