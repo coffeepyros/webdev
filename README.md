@@ -35,3 +35,4 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [Hosting Font Awesome Yourself](https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself)
  * [Fluid Typography](https://www.smashingmagazine.com/2016/05/fluid-typography/)
  * [Web Typography Tutorial](https://www.internetingishard.com/html-and-css/web-typography/)
+ * [Free Faces](https://freefaces.gallery/)
