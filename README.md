@@ -34,3 +34,4 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [W3C School Intro to Font Awesome](https://www.w3schools.com/icons/fontawesome_icons_intro.asp)
  * [Hosting Font Awesome Yourself](https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself)
  * [Fluid Typography](https://www.smashingmagazine.com/2016/05/fluid-typography/)
+ * [Web Typography Tutorial](https://www.internetingishard.com/html-and-css/web-typography/)
