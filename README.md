@@ -11,6 +11,10 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [Pascal's original notes](vsc-pascal.md) - updated for Linux
  * [VSC Extentions](vsc-extentions.md)
 
+## HTML5
+
+ * [Semantic Tags](https://www.vikingcodeschool.com/html5-and-css3/html5-semantic-tags)
+
 ## CSS
 
  * [Border Styles](https://codepen.io/coffeepyros/pen/BaoLpEN)
