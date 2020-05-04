@@ -22,7 +22,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [Font size to point size translation](https://stackoverflow.com/questions/5912528/font-size-translating-to-actual-point-size)
  * [Box Shadows](https://codepen.io/coffeepyros/pen/wvKPRog) (CodePen)
  
-### Advanced
+### Advanced CSS
  
  * Grid: [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) - Youtube Channel by Jen Simmons (one of the main developers of CSS grid)
  * [CSS Tricks](https://css-tricks.com/)
