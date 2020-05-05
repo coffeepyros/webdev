@@ -13,6 +13,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 
 ## HTML5
 
+ * [Color Names](https://colours.neilorangepeel.com/)
  * [Semantic Tags](https://www.vikingcodeschool.com/html5-and-css3/html5-semantic-tags)
 
 ## CSS
