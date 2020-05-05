@@ -22,6 +22,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [Font Stacks](https://css-tricks.com/snippets/css/font-stacks/)
  * [Font size to point size translation](https://stackoverflow.com/questions/5912528/font-size-translating-to-actual-point-size)
  * [Box Shadows](https://codepen.io/coffeepyros/pen/wvKPRog) (CodePen)
+ * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
  
 ### Advanced CSS
  
