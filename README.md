@@ -22,8 +22,13 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [Font Stacks](https://css-tricks.com/snippets/css/font-stacks/)
  * [Font size to point size translation](https://stackoverflow.com/questions/5912528/font-size-translating-to-actual-point-size)
  * [Box Shadows](https://codepen.io/coffeepyros/pen/wvKPRog) (CodePen)
+ 
+ ### CSS Flexbox
+ 
  * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
  * https://flexboxfroggy.com/#de
+ * [Flexbox in GIFs](https://www.freecodecamp.org/news/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053/)
+ * [Flex-Basis](https://www.freecodecamp.org/news/flex-basis-property-in-flexbox/)
  
 ### Advanced CSS
  
