@@ -25,14 +25,18 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  
  ### CSS Flexbox
  
- * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+ * [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
  * https://flexboxfroggy.com/#de
  * [Flexbox in GIFs](https://www.freecodecamp.org/news/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053/)
  * [Flex-Basis](https://www.freecodecamp.org/news/flex-basis-property-in-flexbox/)
  
-### Advanced CSS
+### CSS Grid
  
+ * [Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
  * Grid: [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) - Youtube Channel by Jen Simmons (one of the main developers of CSS grid)
+
+### Advanced CSS
+
  * [CSS Tricks](https://css-tricks.com/)
  * [State of CSS in 2019](https://2019.stateofcss.com/)
  
