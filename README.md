@@ -53,3 +53,4 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [Fluid Typography](https://www.smashingmagazine.com/2016/05/fluid-typography/)
  * [Web Typography Tutorial](https://www.internetingishard.com/html-and-css/web-typography/)
  * [Free Faces](https://freefaces.gallery/)
+ * [The 40 Best Free Fonts Available on Google Fonts](https://www.typewolf.com/google-fonts)
