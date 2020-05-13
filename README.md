@@ -54,3 +54,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [Web Typography Tutorial](https://www.internetingishard.com/html-and-css/web-typography/)
  * [Free Faces](https://freefaces.gallery/)
  * [The 40 Best Free Fonts Available on Google Fonts](https://www.typewolf.com/google-fonts)
+
+## General Coding
+
+ * [Learn to code with games](https://codepip.com/)
