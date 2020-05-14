@@ -35,6 +35,10 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
  * Grid: [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) - Youtube Channel by Jen Simmons (one of the main developers of CSS grid)
 
+### CSS Clip-Path, Scale, Transform
+
+ * [Clippy](https://bennettfeely.com/clippy/)
+
 ### Advanced CSS
 
  * [CSS Tricks](https://css-tricks.com/)
