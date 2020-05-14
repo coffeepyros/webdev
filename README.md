@@ -26,13 +26,14 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  ### CSS Flexbox
  
  * [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
- * https://flexboxfroggy.com/#de
+ * [Flexbox Froggy Game](https://flexboxfroggy.com/#de)
  * [Flexbox in GIFs](https://www.freecodecamp.org/news/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053/)
  * [Flex-Basis](https://www.freecodecamp.org/news/flex-basis-property-in-flexbox/)
  
 ### CSS Grid
  
  * [Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+ * [Grid Garden Game](https://cssgridgarden.com/)
  * Grid: [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) - Youtube Channel by Jen Simmons (one of the main developers of CSS grid)
 
 ### CSS Clip-Path, Scale, Transform
