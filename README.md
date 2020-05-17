@@ -63,3 +63,4 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 ## General Coding
 
  * [Learn to code with games](https://codepip.com/)
+ * [Unicode character table](https://unicode-table.com/en/25BC/)
