@@ -61,6 +61,10 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [Free Faces](https://freefaces.gallery/)
  * [The 40 Best Free Fonts Available on Google Fonts](https://www.typewolf.com/google-fonts)
 
+### Coding Fonts
+
+ * [Input Mono](https://input.fontbureau.com/)
+
 ## General Coding
 
  * [Learn to code with games](https://codepip.com/)
