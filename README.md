@@ -5,6 +5,12 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 ## DCI / André
 
  * [FBW2-Lei / General](https://github.com/fbw2-lei/general) - Curriculum, Goals, Learning Blocks, etc.
+ 
+## Other Online Courses / Ressources
+ 
+ * GitHub Student Program
+ * Frontend Masters
+ * wesbos.com
 
 ## Visual Studio Code
 
