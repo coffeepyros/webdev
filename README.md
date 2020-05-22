@@ -66,6 +66,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [Web Typography Tutorial](https://www.internetingishard.com/html-and-css/web-typography/)
  * [Free Faces](https://freefaces.gallery/)
  * [The 40 Best Free Fonts Available on Google Fonts](https://www.typewolf.com/google-fonts)
+ * [Type-X](https://github.com/arrowtype/type-x) - Chrome extension to test different fonts directly on a website
 
 ### Coding Fonts
 
