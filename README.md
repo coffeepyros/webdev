@@ -8,7 +8,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  
 ## Other Online Courses / Ressources
  
- * [GitHub Student Developer Pack](https://education.github.com/pack)
+ * [GitHub Student Developer Pack](https://education.github.com/pack/offers)
  * [Frontend Masters](https://frontendmasters.com/dashboard/)
  * [Wes Bos Courses](https://wesbos.com/courses)
 
