@@ -17,6 +17,11 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [Pascal's original notes](vsc-pascal.md) - updated for Linux
  * [VSC Extentions](vsc-extentions.md)
 
+## Git / GitHub
+
+* [Caching GitHub password](https://help.github.com/en/github/using-git/caching-your-github-password-in-git)
+* [GitHub Status](https://www.githubstatus.com/)
+
 ## HTML5
 
  * [Color Names](https://colours.neilorangepeel.com/)
@@ -53,11 +58,6 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [CSS Tricks](https://css-tricks.com/)
  * [State of CSS in 2019](https://2019.stateofcss.com/)
  
-## Git / GitHub
-
-* [Caching GitHub password](https://help.github.com/en/github/using-git/caching-your-github-password-in-git)
-* [GitHub Status](https://www.githubstatus.com/)
-
 ## Typography
 
  * [Rock Salt](https://fonts.google.com/specimen/Rock+Salt) (Handwriting)
@@ -72,6 +72,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 ### Coding Fonts
 
  * [Input Mono](https://input.fontbureau.com/)
+ * [Fira Code](https://github.com/tonsky/FiraCode)
 
 ## General Coding
 
