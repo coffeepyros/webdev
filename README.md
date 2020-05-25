@@ -8,9 +8,9 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  
 ## Other Online Courses / Ressources
  
- * GitHub Student Program
- * Frontend Masters
- * wesbos.com
+ * [GitHub Student Developer Pack](https://education.github.com/pack)
+ * [Frontend Masters](https://frontendmasters.com/dashboard/)
+ * [Wes Bos Courses](https://wesbos.com/courses)
 
 ## Visual Studio Code
 
@@ -41,6 +41,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  
  * [Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
  * [Grid Garden Game](https://cssgridgarden.com/)
+ * [CSS Grid Course by Wesbos](https://cssgrid.io/)
  * Grid: [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) - Youtube Channel by Jen Simmons (one of the main developers of CSS grid)
 
 ### CSS Clip-Path, Scale, Transform
