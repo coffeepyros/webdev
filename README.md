@@ -30,6 +30,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 ## CSS
 
  * [CSS selectors](https://estelle.github.io/cssmastery/selectors/selectors.html)
+ * [Selector Game](https://flukeout.github.io/)
  * [Border Styles](https://codepen.io/coffeepyros/pen/BaoLpEN) (CodePen)
  * [Font Stacks](https://css-tricks.com/snippets/css/font-stacks/)
  * [Font size to point size translation](https://stackoverflow.com/questions/5912528/font-size-translating-to-actual-point-size)
