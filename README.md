@@ -72,8 +72,10 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 
 ### Coding Fonts
 
+ * [Inconsolata](https://fonts.google.com/specimen/Inconsolata)
  * [Input Mono](https://input.fontbureau.com/)
  * [Fira Code](https://github.com/tonsky/FiraCode)
+ * SF Mono
 
 ## General Coding
 
