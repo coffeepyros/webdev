@@ -59,6 +59,11 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [CSS Tricks](https://css-tricks.com/)
  * [State of CSS in 2019](https://2019.stateofcss.com/)
  
+## Magazines
+
+ * [Increment Magazine, Issue #13 - Frontend](https://increment.com/frontend/)
+ * [Smashing Magazine (Online)](https://www.smashingmagazine.com/)
+ 
 ## Typography
 
  * [Rock Salt](https://fonts.google.com/specimen/Rock+Salt) (Handwriting)
