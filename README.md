@@ -79,6 +79,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 
  * [Inconsolata](https://fonts.google.com/specimen/Inconsolata)
  * [Input Mono](https://input.fontbureau.com/)
+ * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
  * [Fira Code](https://github.com/tonsky/FiraCode)
  * SF Mono
 
