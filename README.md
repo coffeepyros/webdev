@@ -53,6 +53,11 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 ### CSS Clip-Path, Scale, Transform
 
  * [Clippy](https://bennettfeely.com/clippy/)
+ 
+### Icons
+ 
+ * [Font Awesome 4.7](https://fontawesome.com/v4.7.0/examples/) (old version, but free)
+ * `<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">`
 
 ### Advanced CSS
 
