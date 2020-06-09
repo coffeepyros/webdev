@@ -1,3 +1,5 @@
+![Note Tabs](note_tabs.jpg "Note Tabs")
+
 # Webdevelopment Notes
 
 Collected notes, tools and links for webdevelopment. Always growing, because the space in my head is taken up with useless information instead.
@@ -58,6 +60,8 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  
  * [Font Awesome 4.7](https://fontawesome.com/v4.7.0/examples/) (old version, but free)
  * `<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">`
+ * [W3C School Intro to Font Awesome](https://www.w3schools.com/icons/fontawesome_icons_intro.asp)
+ * [Hosting Font Awesome Yourself](https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself)
 
 ### Advanced CSS
 
@@ -72,8 +76,6 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 ## Typography
 
  * [Rock Salt](https://fonts.google.com/specimen/Rock+Salt) (Handwriting)
- * [W3C School Intro to Font Awesome](https://www.w3schools.com/icons/fontawesome_icons_intro.asp)
- * [Hosting Font Awesome Yourself](https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself)
  * [Fluid Typography](https://www.smashingmagazine.com/2016/05/fluid-typography/)
  * [Web Typography Tutorial](https://www.internetingishard.com/html-and-css/web-typography/)
  * [Free Faces](https://freefaces.gallery/)
@@ -82,6 +84,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 
 ### Coding Fonts
 
+ * [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono)
  * [Inconsolata](https://fonts.google.com/specimen/Inconsolata)
  * [Input Mono](https://input.fontbureau.com/)
  * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
