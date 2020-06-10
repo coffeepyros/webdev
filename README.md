@@ -81,6 +81,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [Free Faces](https://freefaces.gallery/)
  * [The 40 Best Free Fonts Available on Google Fonts](https://www.typewolf.com/google-fonts)
  * [Type-X](https://github.com/arrowtype/type-x) - Chrome extension to test different fonts directly on a website
+ * [Premium Free Fonts](https://medium.com/fresh-fonts/free/home)
 
 ### Coding Fonts
 
