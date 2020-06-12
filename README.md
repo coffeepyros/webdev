@@ -52,9 +52,10 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [CSS Grid Course by Wesbos](https://cssgrid.io/)
  * Grid: [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) - Youtube Channel by Jen Simmons (one of the main developers of CSS grid)
 
-### CSS Clip-Path, Scale, Transform
+### CSS Clip-Path, Scale, Transform, Gradients
 
  * [Clippy](https://bennettfeely.com/clippy/)
+ * [CSS Gradient Backgrounds](https://cssgradient.io/) 
  
 ### Icons
  
