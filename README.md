@@ -69,10 +69,12 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [CSS Tricks](https://css-tricks.com/)
  * [State of CSS in 2019](https://2019.stateofcss.com/)
  
-## Magazines
+## Magazines / Blogs
 
  * [Increment Magazine, Issue #13 - Frontend](https://increment.com/frontend/)
  * [Smashing Magazine (Online)](https://www.smashingmagazine.com/)
+ * [The Web Ahead](http://thewebahead.net/topics)
+ 
  
 ## Typography
 
