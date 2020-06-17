@@ -99,3 +99,13 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 
  * [Learn to code with games](https://codepip.com/)
  * [Unicode character table](https://unicode-table.com/en/25BC/)
+
+## Illustrations
+
+ * [https://icons8.com/ouch](https://icons8.com/ouch)
+ * [https://undraw.co/illustrations](https://undraw.co/illustrations)
+ * https://www.drawkit.io/
+ * https://www.manypixels.co/gallery/
+ * https://webkul.github.io/vivid/
+ * https://www.humaaans.com/
+ * https://iradesign.io/
