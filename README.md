@@ -109,3 +109,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * https://webkul.github.io/vivid/
  * https://www.humaaans.com/
  * https://iradesign.io/
+ 
+ ## SVG
+ 
+ * [SVG Backgrounds](https://www.svgbackgrounds.com/)
