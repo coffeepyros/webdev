@@ -113,3 +113,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  ## SVG
  
  * [SVG Backgrounds](https://www.svgbackgrounds.com/)
+
+## Unsorted / Quick Dump
+
+https://www.samanthaming.com/tidbits/
