@@ -13,3 +13,13 @@ https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins
 To mark a portion of text and surround it with a HTML tag. `Alt` + `W` to use.
 
 https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap
+
+# Florian's Recommendations
+
+ * WhatFont
+ * Colorpick Eyedropper
+ * JSON View
+ * Responsive Web Design Tester (only Chrome)
+ * Wappalyzer
+ * Single File
+ * Web Developer
