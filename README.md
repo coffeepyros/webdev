@@ -124,3 +124,6 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 
  * https://www.samanthaming.com/tidbits/
  * https://dev.to/exwhyzed/best-free-compilation-of-graphic-design-web-dev-ui-ux-resources-471c
+ * https://www.electronjs.org/
+ * https://veerle.duoh.com/inspiration
+ * https://wattenberger.com/blog/css-percents
