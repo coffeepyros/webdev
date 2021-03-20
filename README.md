@@ -72,8 +72,8 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  
 ## JavaScript
 
- * [State of CSS in 2019](https://2019.stateofcss.com/)
-
+ * [Textures.js](https://riccardoscalco.it/textures/)
+ 
 ## Magazines / Blogs
 
  * [Increment Magazine, Issue #13 - Frontend](https://increment.com/frontend/)
@@ -122,4 +122,5 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 
 ## Unsorted / Quick Dump
 
-https://www.samanthaming.com/tidbits/
+ * https://www.samanthaming.com/tidbits/
+ * https://dev.to/exwhyzed/best-free-compilation-of-graphic-design-web-dev-ui-ux-resources-471c
