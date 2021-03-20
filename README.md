@@ -18,6 +18,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
 
  * [Pascal's original notes](vsc-pascal.md) - updated for Linux
  * [VSC Extentions](vsc-extentions.md)
+ * [Horizon Theme](https://horizontheme.netlify.app/)
 
 ## Git / GitHub
 
@@ -69,12 +70,16 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [CSS Tricks](https://css-tricks.com/)
  * [State of CSS in 2019](https://2019.stateofcss.com/)
  
+## JavaScript
+
+ * [State of CSS in 2019](https://2019.stateofcss.com/)
+
 ## Magazines / Blogs
 
  * [Increment Magazine, Issue #13 - Frontend](https://increment.com/frontend/)
  * [Smashing Magazine (Online)](https://www.smashingmagazine.com/)
  * [The Web Ahead](http://thewebahead.net/topics)
- 
+ * [The State of Things in 2020](https://twitter.com/smashingmag/status/1280422442083762176) 
  
 ## Typography
 
@@ -94,6 +99,7 @@ Collected notes, tools and links for webdevelopment. Always growing, because the
  * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
  * [Fira Code](https://github.com/tonsky/FiraCode)
  * SF Mono
+ * [Dank Mono](https://gumroad.com/l/dank-mono)
 
 ## General Coding
 
